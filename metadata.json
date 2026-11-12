@@ -1,0 +1,6 @@
+{
+  "name": "AgroLink AI X - Agricultural Marketplace",
+  "description": "AI-powered B2B and D2C Agricultural Marketplace connecting local Bangladeshi farmers with consumers and commercial buyers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
